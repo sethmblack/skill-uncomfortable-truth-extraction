@@ -1,11 +1,9 @@
 ---
 name: uncomfortable-truth-extraction
-description: Identify and articulate the uncomfortable truth that everyone knows but
-  refuses to acknowledge in any situation, content, or social dynamic. Based on Patrice
-  O'Neal's "Elephant in the Room" methodo...
+description: Identify and articulate the uncomfortable truth that everyone knows but refuses to acknowledge in any situation, content, or social dynamic. Based on Patrice O'Neal's "Elephant in the Room" methodo...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - storytelling
