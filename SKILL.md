@@ -4,7 +4,7 @@ description: Identify and articulate the uncomfortable truth that everyone knows
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5244
+  version: 1.0.5245
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
